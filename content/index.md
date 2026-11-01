@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+Yu-gi-oh: Trading card game. Different type of cards like rarities, types, and even deck builds
 ---
 ## The index page
 
