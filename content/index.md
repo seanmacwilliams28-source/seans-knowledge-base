@@ -1,7 +1,14 @@
 ---
 Yu-gi-oh: Trading card game. Different type of cards like rarities, types, and even deck builds
 ---
-## The index page
+##Main Categories
+[extra-deck-monsters/index|Different type of extra deck monsters cards for Yu-Gi-Oh]
+[formats/index|Different Formats of Yu-Gi-Oh]
+[monsters/index|Different type of monsters in Yu-Gi-Oh]
+[rarities/index|Different type of rarities in Yu-Gi-Oh]
+[spells/index|Different spell cards of Yu-Gi-Oh]
+[traps/index|Different trap cards of Yu-Gi-Oh]
+##The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
 
