@@ -10,7 +10,7 @@ One of the type of Monsters that you can run in the Main deck
 * When Ritual Monsters were first introduced into the game it struggled on a competitive level due to the lack of searchers in the game or consistency issues. 
 * Later on Ritual themed archetypes started to release and thus made Ritual more consistent and viable in the competitive scene. 
 
-Down Below is an example of Ritual Monster
+Here is an example of Ritual Monster
 ![[MagicianofBlackChaos-YGLD-EN-UR-1E.webp]]
 
 Check out the other type of monsters if you haven't yet

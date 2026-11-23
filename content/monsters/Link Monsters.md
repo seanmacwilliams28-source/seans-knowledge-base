@@ -17,7 +17,7 @@ Another type of monster you can run in your Extra deck
 * Due to trying to have Multiple Links on board positioning where your Link monsters went after being placed in the Extra deck zone was huge because if you misplaced a link that didn't point to another monster zone of yours you were pretty much locked out of being able to Link summon further. 
 * There were even some decks that could essentially spam the board enough and position the link summons to pretty much make it to the other extra deck zone and lock the opponent out of the extra deck zone which would severely weaken the opponents board state on their turn.
 
-Down below is an example of a Link Monster
+Here is an example of a Link Monster
 ![[BunnyGirlIP.png]]
 
 Check out the other type of monsters if you haven't yet

@@ -13,7 +13,7 @@ Another type of Monster you can run in your Extra deck
 * Much like Synchro based decks Xyz based decks typically tried to find ways to swarm the field with a bunch of monsters so they could do an exceed summon. however unlike Synchro based decks Xyz decks would try to get multiple monsters out of the same level to get the rank they desired to bring out.
 * Most Xyz monsters have effects and usually the way to activate these effects is by detaching one of the materials that it has underneath it and sending that material to the graveyard. 
 
-Down below is an example of an Xyz monster
+Here is an example of an Xyz monster
 ![[8du7ppptq5k21.jpg]]
 
 Check out the other type of monsters if you haven't yet

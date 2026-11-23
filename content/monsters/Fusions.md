@@ -12,7 +12,7 @@ one of the type of monsters that can be in the Extra deck
 * Compared to older Fusions newer fusions tend to be less restrictive on the materials you need to fusion summon especially Fusions tied to a certain archetype. 
 
 
-down below is an example of one of these fusions.
+Here is an example of one of these fusions.
 
 ![[images.jpg]]
 

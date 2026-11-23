@@ -16,7 +16,7 @@ One of the type of Monsters you can run in your Extra deck
 * A lot of Synchro Monsters have potent effects that either happen when they are summoned or just while being on board. 
 
 
-Below is example of a Synchro Monster
+Here is an example of a Synchro Monster
 ![[images 1.jpg]]
 
 Check out the other type of monsters if you haven't yet

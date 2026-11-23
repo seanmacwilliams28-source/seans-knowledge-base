@@ -13,7 +13,7 @@ Another type of monster that can be ran in the main deck
 * there are several different ways to use effect monsters whether its using them to swarm the field, perhaps using its effect to destroy one of your opponents cards, or perhaps lock your opponent out of their strategy. Or perhaps even negating certain cards your opponent tries to activate.
 * There are also some effect monsters that you don't even summon you instead keep them in your hand and wait to use them against a card your opponent activates or summons, these are typically referred as hand traps, even though they are effect monsters. 
 
-Down below is an example of a normal monster, an effect monster, and then a monster that would typically used as a hand trap.
+Here is an example of a normal monster, an effect monster, and then a monster that would typically used as a hand trap.
 ![[images (1).jpg]]
 ![[136830_in_1000x1000.jpg]]
 ![[661270_in_1000x1000.jpg]]
